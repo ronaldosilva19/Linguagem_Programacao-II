@@ -1,2 +1,2 @@
 # Linguagem_Programacao-II
-Organizar o estudo da Linguagem Java.
+O objetivo deste repositório é organizar o estudo da Programação Orientada à Objetos utilizando a Linguagem Java.
