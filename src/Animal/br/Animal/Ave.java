@@ -1,4 +1,4 @@
-package Animal.br.ufrn.imd;
+package Animal.br.Animal;
 
 public class Ave extends Animal{
 
